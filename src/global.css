@@ -1,0 +1,19 @@
+/* global.css */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  }
+  :root {
+  --primoo-yellow: #f9dd17;
+  --primoo-blue: #04213c;
+  --primoo-bg: #f6f8fc;
+  --primoo-dark: #25344b;
+  --primoo-grey: #e3e7ee;
+  --primoo-white: #fff;
+}
